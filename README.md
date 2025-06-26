@@ -1,1 +1,1 @@
-# quiz-app-flutter
+# qr-scanner-app
